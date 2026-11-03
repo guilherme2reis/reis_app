@@ -1,0 +1,13 @@
+# backups exportados: ficam só no computador, não no repositório público
+*.csv
+
+# configuração local do editor
+.claude/
+
+# ícone do atalho da Área de Trabalho (só no computador)
+icon.ico
+
+# tarefas do computador (gravadas pelo iniciar.pyw): dados pessoais, ficam só aqui
+dados.json
+dados.tmp
+backups/
