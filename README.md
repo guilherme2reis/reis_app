@@ -6,7 +6,7 @@ Coleção de apps do Guilherme Reis. Cada app fica em uma pasta própria.
 
 | App | Pasta | Link | Status |
 |---|---|---|---|
-| (primeiro app) | `nome-da-pasta/` | - | em construção |
+| TANQ — controle de consumo de combustível | `tanq/` | [abrir](https://guilherme2reis.github.io/reis_app/tanq/) | no ar (v1.4.0) |
 
 ## Regras do repositório
 
