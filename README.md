@@ -7,7 +7,8 @@ Coleção de apps do Guilherme Reis. Cada app fica em uma pasta própria.
 | App | Pasta | Link | Status |
 |---|---|---|---|
 | TANQ — controle de consumo de combustível | `tanq/` | [abrir](https://guilherme2reis.github.io/reis_app/tanq/) | no ar (v1.4.0) |
-| SOLLERS WORK — agenda de tarefas (só dias com tarefa) | `sollers-work/` | [abrir](https://guilherme2reis.github.io/reis_app/sollers-work/) | no ar (v1.4.0) 
+| SOLLERS WORK — agenda de tarefas (só dias com tarefa) | `sollers-work/` | [abrir](https://guilherme2reis.github.io/reis_app/sollers-work/) | no ar (v1.4.0) |
+| SOLLERS CODE — lições diárias (profissional e pessoal) | `sollers-code/` | [abrir](https://guilherme2reis.github.io/reis_app/sollers-code/) | no ar (v1.0.0) |
 
 ## Regras do repositório
 
